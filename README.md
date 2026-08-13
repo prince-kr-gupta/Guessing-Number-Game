@@ -46,7 +46,7 @@ Guessing-Number-Game/
 1. Clone the repository:
 
 ```bash
-git clone <your-repository-url>
+git clone https://github.com/prince-kr-gupta/Guessing-Number-Game.git
 ```
 
 2. Open the project folder.
