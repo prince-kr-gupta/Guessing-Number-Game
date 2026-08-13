@@ -1,0 +1,19 @@
+body{
+    background-color : rgba(176, 69, 69, 0.895);
+}
+.head{
+    font-size :40px;
+    font-weight: bold;
+    margin-left : 530px;
+    margin-right : 530px;
+    margin-bottom : 0px;
+    color : white;
+
+}
+.rule{
+    font-size : 25px;
+    font-weight : bold;
+    color : white;
+    margin-top : 150px;
+    width :1020px;
+}
